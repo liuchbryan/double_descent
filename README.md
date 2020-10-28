@@ -55,3 +55,8 @@ cd double_descent
 pyenv local 3.7.3
 pipenv update --dev
 ```
+
+## Run jupyter notebook
+```
+pipenv run jupyter notebook
+```
